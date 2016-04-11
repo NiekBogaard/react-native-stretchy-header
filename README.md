@@ -9,6 +9,10 @@
 - [x] iOS
 - [ ] Android
 
+## Demo
+
+![Demo](https://s3-ap-southeast-1.amazonaws.com/tony-s3-sandbox/github/100dc-003.gif)
+
 ## Installation
 
 ```sh
