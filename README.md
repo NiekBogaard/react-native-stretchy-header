@@ -16,7 +16,7 @@
 ## Installation
 
 ```sh
-$ npm install react-native-profile-component --save
+$ npm install react-native-stretchy-header --save
 ```
 
 ## Usage
